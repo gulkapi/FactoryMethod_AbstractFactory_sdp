@@ -315,3 +315,7 @@ Check the final history with:
 ```bash
 git log --oneline --reverse
 ```
+
+## Fourth Product Family
+
+Oracle Cloud is supported as the fourth product family. It provides compatible compute, database, and object storage products through the same Abstract Factory interface.
