@@ -1,4 +1,4 @@
-# Assignment 2 — Factory Method & Abstract Factory
+# Factory Method & Abstract Factory
 
 ## Domain
 
